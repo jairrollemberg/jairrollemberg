@@ -2,7 +2,7 @@
 
 Me chamo Jair Rollemberg, sou um ex Fuzileiro Naval:medal_military: que resolveu se tornar um **Full-Stack Developer**💻 atualmente com foco em Back-End, sou formado em ADS desde 2023 ! 
 
-Procuro uma oportunidade de entrar no mundo **Dev**
+Procuro uma oportunidade para ingressar no seu time de desenvolvimento! :rocket:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jair-rollemberg/)
 
