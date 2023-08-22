@@ -22,7 +22,7 @@ Procuro uma oportunidade para ingressar no seu time de desenvolvimento! :rocket:
 <br>
 <br>
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jairrollemberg&theme=tokyonight&custom_title=Top%20%Linguagens)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jairrollemberg&theme=tokyonight&custom_title=Linguagens%20%)
 
 
 
