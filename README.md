@@ -1,6 +1,6 @@
 # Fala pessoal, tudo beleza? :v: 
 
-Me chamo Jair Rollemberg, sou um ex Fuzileiro Naval:medal_military: que resolveu se tornar um **Full-Stack Developer**💻 atualmente com foco em Back-End, sou formado em ADS desde 2023!! <br>
+Me chamo Jair Rollemberg, sou um ex Fuzileiro Naval que resolveu se tornar um **Full-Stack Developer**💻 atualmente com foco em Back-End, sou formado em ADS desde 2023!! <br>
 Apaixonado por Tecnologia e Logica... 
 
 
